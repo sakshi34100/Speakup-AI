@@ -24,7 +24,7 @@ if api_key:
 else:
     st.error("API Key not found. Please check your .env file.")
 
-# Using Gemini 1.5 Flash as the core AI Intelligence Layer
+# Using Gemini  Flash as the core AI Intelligence Layer
 model = genai.GenerativeModel('models/gemini-flash-latest')
 st.set_page_config(page_title="SpeakUp AI | Mastery in Communication", layout="wide")
 
