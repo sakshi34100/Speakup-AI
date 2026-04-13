@@ -1,12 +1,7 @@
 streamlit
 google-generativeai
-openai
 python-dotenv
-SpeechRecognition
-pyaudio
-pyttsx3
 gTTS
-pydub
 PyPDF2
 streamlit-mic-recorder
-ffmpeg-python
+pandas
